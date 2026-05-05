@@ -3,6 +3,12 @@ I write about DevOps, Cloud, SaaS, Fintech, and Startups—focusing on real-worl
 
 ## 🌐 My Blogs
 
+### [How IT Consulting Helps Startups Scale Faster and Smarter](https://www.sygitech.com/blog/it-consulting-for-startups/)
+IT consulting for startups enables scalable systems, cost efficiency, stronger security, and faster growth through expert guidance.
+
+### [Why Your Cloud Costs Are Increasing and How to Control Them](https://www.sygitech.com/blog/cloud-cost-optimization/)
+Discover practical ways to optimize your cloud costs and eliminate spending on idle resources and unnecessary services.
+
 ### [Cloud Strategy for Fintech Startups: What You Need to Get Right](https://www.sygitech.com/blog/cloud-strategy-for-fintech-startups/)
 Check out my latest blog: Cloud strategy for fintech startups: Discover how to design secure, scalable, and cost-effective systems that enable growth while meeting regulatory requirements.
 
