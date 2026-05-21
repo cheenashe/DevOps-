@@ -2,7 +2,7 @@
 I write about DevOps, Cloud, SaaS, Fintech, and Startups—focusing on real-world challenges, scalable solutions, and practical insights.
 
 ## 🌐 My Blogs
-### [9 AWS Cost Optimization Mistakes in SaaS Platforms]{https://www.sygitech.com/blog/aws-cost-optimization-mistakes-saas-platforms/}
+### [9 AWS Cost Optimization Mistakes in SaaS Platforms](https://www.sygitech.com/blog/aws-cost-optimization-mistakes-saas-platforms/)
 Reduce cloud waste and improve profitability by avoiding common AWS cost optimization mistakes in SaaS platforms, from EC2 overprovisioning to Kubernetes cost sprawl.
 
 
