@@ -2,8 +2,9 @@
 I write about DevOps, Cloud, SaaS, Fintech, and Startups—focusing on real-world challenges, scalable solutions, and practical insights.
 
 ## 🌐 My Blogs
-### [9 AWS Cost Optimization Mistakes in SaaS Platforms](https://www.sygitech.com/blog/aws-cost-optimization-mistakes-saas-platforms/)
-Reduce cloud waste and improve profitability by avoiding common AWS cost optimization mistakes in SaaS platforms, from EC2 overprovisioning to Kubernetes cost sprawl.
+
+### [Common CI/CD Pipeline Problems and Solutions](https://www.sygitech.com/blog/ci-cd-pipeline-problems-and-solutions/)
+Discover common CI/CD pipeline bottlenecks, misconfigurations, and troubleshooting strategies to maintain efficient and dependable automated deployments.
 
 
 ### [Common DevOps Security Gaps in Fast-Growing Startups](https://www.sygitech.com/blog/devops-security-gaps-startups/)
