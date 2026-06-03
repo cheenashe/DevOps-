@@ -3,7 +3,7 @@ I write about DevOps, Cloud, SaaS, Fintech, and Startups—focusing on real-worl
 
 ## 🌐 My Blogs
 
-###[Why CI/CD Pipelines Fail in Production Environments](https://www.sygitech.com/blog/ci-cd-pipeline-failures/)
+### [Why CI/CD Pipelines Fail in Production Environments](https://www.sygitech.com/blog/ci-cd-pipeline-failures/)
 Learn about the key factors behind CI/CD pipeline failures and how to implement best practices that minimize risks and streamline deployments.
 
 
