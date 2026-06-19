@@ -382,7 +382,3 @@ Managing Terraform state across multiple engineers, environments, and cloud acco
 >
 > 👉 [Talk to our DevOps engineers](https://www.sygitech.com/devops-and-automation-services.html)
 
----
-
-*Maintained by [Sygitech](https://www.sygitech.com) — Managed Cloud Services for Engineering Teams*  
-*Have a recovery scenario not covered here? Open a Discussion — we'll add it.*
