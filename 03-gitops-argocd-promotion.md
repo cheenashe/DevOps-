@@ -510,7 +510,4 @@ Managing ArgoCD across multiple clusters, teams, and environments — with RBAC,
 >
 > 👉 [Talk to our DevOps engineers](https://www.sygitech.com/devops-and-automation-services.html)
 
----
 
-*Maintained by [Sygitech](https://www.sygitech.com) — Managed Cloud Services for Engineering Teams*  
-*Using a different promotion pattern? Share it in Discussions — we'll add the best ones here.*
