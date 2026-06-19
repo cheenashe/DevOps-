@@ -401,7 +401,4 @@ Doing it across 50+ microservices, multiple clusters, and at 3am is a different 
 >
 > 👉 [Talk to our cloud engineers](https://www.sygitech.com/cloud-monitoring-and-management.html)
 
----
 
-*Maintained by [Sygitech](https://www.sygitech.com) — Managed Cloud Services for Engineering Teams*  
-*Found an issue or have a fix to add? Open a PR or start a Discussion.*
